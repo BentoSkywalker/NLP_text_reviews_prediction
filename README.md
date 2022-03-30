@@ -1,1 +1,10 @@
-# NLP_text_reviews_prediction
+# NLP_text_reviews_prediction :pencil2:
+
+Implement NLP process to Women's E-Commerce Clothing Reviews datast :
+
+https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
+
+Using Tensorflow Keras tools instance Tokenization, WordEbbedging instead of nltk tools to see perfomance
+
+And demonstrate to evaluate model with metrics consider to imbalance target.
+
